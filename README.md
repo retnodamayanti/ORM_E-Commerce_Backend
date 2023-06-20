@@ -1,4 +1,5 @@
-# ORM_E-Commerce_Backend
+# E-Commerce_Backend
+
 ## Description
 
 This command line application is designed to build the back end for an e-commerce site using the latest technologies and adhering to the principles of Object-Relational Mapping (ORM). By leveraging Express.js and Sequelize, a powerful API is created to interact with a MySQL database effectively.
