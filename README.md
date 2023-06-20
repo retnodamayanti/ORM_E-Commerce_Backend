@@ -2,7 +2,7 @@
 ## Description
 
 This command line application is designed to build the back end for an e-commerce site using the latest technologies and adhering to the principles of Object-Relational Mapping (ORM). By leveraging Express.js and Sequelize, a powerful API is created to interact with a MySQL database effectively.
-Please visit the demo [here]().
+Please visit the demo [here](https://drive.google.com/file/d/1P0dGjfP1wIIe0ubRDdHFpKCjeqL6VNt6/view?usp=sharing).
 
 ## Table of Contents
 - [Installation](#installation)
